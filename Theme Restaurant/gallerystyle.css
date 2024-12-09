@@ -1,0 +1,191 @@
+.same1{
+    /* display: inline-block;  */
+    float: inline-end; 
+    width:700px;
+}
+.same img{
+   background-color: rgb(69, 67, 67);
+   margin-top: 10px;
+   margin-left: 250px;
+  
+}
+.same{
+display:block;
+width:1350px;
+border:groove 2px;
+border-style:hidden;
+padding-top: 25px;
+ position:sticky; 
+ top:0;
+z-index: 2;  
+margin-bottom: 40px;
+margin-left:5px;
+padding-right: 2px;
+background-color: white;
+}
+.same1 a {
+   text-decoration: none;
+   color: black;
+   padding-left: 10px;
+   padding-top: 10px;
+   line-height: 4;
+   margin-left: 10px;
+}
+.same1 nav{
+   display: inline;  
+}
+.ourgallery{
+    background-image: url('gal12.jpg');
+    height: 800px;
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-bottom: 50px;
+}
+.ourgallery h1{
+font-size:100px;
+padding-left:100px;
+padding-top: 250px;
+font-style:italic;
+color: gold;
+
+}
+.ourgallery h3{
+    font-size:60px;
+    padding-left:50px;
+    font-style:italic;
+    color:ghostwhite;
+    }
+    .list ul{
+        text-decoration: none;
+        list-style: none;
+        display: flex;
+        display: flex;
+        justify-content: space-around;
+    }
+    .list{
+        width:500px;
+        padding-left: 400px;
+        font-weight: bolder;
+        font-size: 25px;
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+  /* .hrline{
+    border-bottom: 2px solid chocolate;
+    width:200px;
+    padding-left: 10px;
+    padding-right: 50px;
+    border-top:0px;
+  }
+  .hr1{
+    display: flex;
+  }
+  .hrline1 span{
+    font-size: 50px;
+    padding-top: 200px;
+  } */
+
+.images{
+    display:wrap;
+padding-left: 50px;
+margin-bottom: 30px;
+}
+.images img{
+    width:400px;
+height:300px;
+margin-right: 20px;
+margin-bottom: 20px;
+box-shadow: 2px 2px 3px 3px grey;
+}
+.test{
+    margin-top: 100px;
+    margin-left: 50px;
+    background-image: url('foodnew.jpg');
+    background-size: cover;
+    height: 900px;
+    width:1250px;
+    background-repeat: no-repeat;
+}
+.test h2{
+    color: black;
+    font-size: 50px;
+    padding-top:290px;
+    text-align: center;
+}
+.test h4{
+    text-align: center;
+    padding-top: 20px;
+    color:chocolate;
+    font-size: 30px;
+    font-style: italic;
+    padding-bottom: 20px;
+}
+.test img{
+    margin-top: 10px;
+}
+.test1{
+    padding-left: 550px;
+}
+.test p{
+    text-align: center;
+    padding-left: 130px;
+    padding-right: 150px;
+    padding-top: 20px;
+}
+.about{
+    display: flex;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height:400px;
+    width:1242px;
+}
+.aboutus{
+    margin-top:100px;
+    margin-left: 70px;
+    width:400px;
+}
+.aboutus p{
+    padding-top: 50px;
+    margin-left: 2px;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.find{
+   margin-top:70px;
+    margin-left: 120px; 
+}
+.aboutus h3{
+text-align: center;
+color: burlywood;
+}
+.find p{
+    padding-left: 30px;
+    padding-bottom: 60px;
+    font-style: italic;
+    font-size: 30px;
+    color: burlywood;
+}
+.news h3{
+     margin-top: 100px;
+     margin-left: 150px; 
+     color: burlywood;
+}
+.news input{
+    padding-left: 20px;
+    margin-left: 130px;
+    margin-top: 70px;
+}
+.footer{
+    height:80px;
+    background-color: rgb(56, 53, 53);
+    color:darksalmon;
+    font-style: italic;
+    width: 1242px;
+     margin-left: 50px; 
+     text-align: center;
+     padding-top: 50px;
+     font-size: 20px;
+}

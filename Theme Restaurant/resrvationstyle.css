@@ -1,0 +1,227 @@
+.same1{
+    /* display: inline-block;  */
+    float: inline-end; 
+    width:700px;
+}
+.same img{
+   background-color: rgb(69, 67, 67);
+   margin-top: 10px;
+   margin-left: 250px;
+  
+}
+.same{
+display:block;
+width:1350px;
+border:groove 2px;
+border-style:hidden;
+padding-top: 25px;
+ position:sticky; 
+ top:0;
+z-index: 2;  
+margin-bottom: 40px;
+margin-left:5px;
+padding-right: 2px;
+background-color: white;
+}
+.same1 a {
+   text-decoration: none;
+   color: black;
+   padding-left: 10px;
+   padding-top: 10px;
+   line-height: 4;
+   margin-left: 10px;
+}
+.same1 nav{
+   display: inline;  
+}
+.reserve{
+    background-image: url('reserve.jpg');
+    height:1000px; 
+   margin-left: 30px;
+   margin-top: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.reserve h3{
+    padding-left: 50px;
+    padding-top: 200px;
+    font-size: 50px;
+   
+}
+.reserve h4{
+    font-size: 30px;
+    font-style: italic;
+    color: rgb(224, 145, 42);
+    padding-left: 100px;
+}
+.info{
+    margin-top: 150px;
+    margin-left: 50px;
+    padding-bottom: 100px;
+}
+.info h4{
+    color: rgb(224, 145, 42);
+    text-align: center;
+   font-size: 30px;
+}
+.info p{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-right: 150px;
+    text-align: justify;
+    text-align: center;
+}
+.book{
+    display: flex;
+    margin-left: 20px;
+    padding-left: 120px;
+    margin-bottom: 20px;
+}
+.book h4{
+    font-size: 20px;
+}
+.contacts{
+    margin-left: 60px;
+}
+.book input, .book select{
+margin-bottom: 30px;
+}
+.bt button{
+   margin-left: 550px;
+  color: rgb(224, 145, 42);
+  font-size: 19px;
+  font-style: italic;
+   background-color: black;
+   width:200px;
+   height:50px;
+   margin-bottom: 70px;
+}
+.openinghrs{
+    margin-top: 90px;
+    margin-left: 50px;
+}
+.bgvid{
+   opacity:0.7;
+    position:relative;
+}
+.content h2{
+    color: rgb(26, 26, 25);
+    font-size: 50px;
+    position: absolute;
+    top:365%;
+    right:35%;
+}
+/* .content{
+    position: absolute;
+    top:230%;
+    right:35%;
+} */
+.content h3{
+    position: absolute;
+    top:385%;
+    right:40%;
+    color:rgb(90, 60, 4);
+    font-size: 30px;
+    font-style: italic;
+    margin:10px;
+    
+}
+.time{
+    display: inline-block;
+    position: absolute;
+    top:395%;
+    right:60%;
+    font-style: italic;
+    font-size:40px;
+    color:rgb(90, 60, 4);
+}
+.hours{
+    font-size: 50px;
+    color: rgb(20, 13, 1);
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.vl{
+    display: inline-block;
+    border-left: 5px;
+    border-style: groove;
+    height: 200px;
+    position: absolute;
+    top:3%;
+    right:-50%;
+}
+.time1{
+    display: inline-block;
+    position: absolute;
+    top:395%;
+    right:20%;
+    font-style: italic;
+    font-size:40px;
+    color: rgb(90, 60, 4);
+}
+.phn {
+    position: absolute;
+    top:445%;
+    right:42%; 
+    font-weight: bolder;
+    font: 1em sans-serif;
+    font-style: italic;
+    font-size:25px;
+}
+.about{
+    display: flex;
+    background-color: black;
+    color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height:400px;
+    width:1242px;
+}
+.aboutus{
+    margin-top:100px;
+    margin-left: 70px;
+    width:400px;
+}
+.aboutus p{
+    padding-top: 50px;
+    margin-left: 2px;
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.find{
+   margin-top:70px;
+    margin-left: 120px; 
+}
+.aboutus h3{
+text-align: center;
+color: burlywood;
+}
+.find p{
+    padding-left: 30px;
+    padding-bottom: 60px;
+    font-style: italic;
+    font-size: 30px;
+    color: burlywood;
+}
+.news h3{
+     margin-top: 100px;
+     margin-left: 150px; 
+     color: burlywood;
+}
+.news input{
+    padding-left: 20px;
+    margin-left: 130px;
+    margin-top: 70px;
+}
+.footer{
+    height:80px;
+    background-color: rgb(56, 53, 53);
+    color:darksalmon;
+    font-style: italic;
+    width: 1242px;
+     margin-left: 50px; 
+     text-align: center;
+     padding-top: 50px;
+     font-size: 20px;
+}
